@@ -1,0 +1,12 @@
+header{
+    background-color:#F55A5A;
+    color:#FFFFFF;
+    padding:20px;
+    display:flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.logo-text{
+    padding:0px 10px;
+}
