@@ -1,0 +1,66 @@
+.travel-image {
+    width: 125px;
+    height: 168px;
+    top: 100px;
+    margin-right: 20px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.grp-flex {
+    width: 470px;
+    height: 168px;
+    top: 50px;
+    position: relative;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+    color:#2B283A;
+    box-shadow: 1px 0px 10px #2B283A;
+    border-radius:5px;
+}
+
+.location-logo {
+    width: 7px;
+    margin-right:2px;
+}
+
+.country {
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 100%;
+    letter-spacing: 2px;
+    margin-right:5px;
+}
+
+.loc-link{
+    color:#918E9B;
+    font-size : 10.24px;
+}
+
+.heading{
+font-weight: 700;
+font-size: 25px;
+line-height: 100%;
+letter-spacing: 0%;
+margin:5px 0px;
+}
+
+.date{
+font-weight: 700;
+font-size: 10.24px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+
+.about{
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+letter-spacing: 0%;
+}
+
+.right-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
